@@ -36,8 +36,8 @@ A comprehensive AI-powered application for simulating, predicting, and analyzing
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/supply-chain-stockout-forecasting.git
-cd supply-chain-stockout-forecasting
+git clone https://github.com/TejaswiMahadev/Supply-Chain-Forecast.git
+cd Supply-Chain-Forecast
 ```
 
 ### 2. Install Dependencies
